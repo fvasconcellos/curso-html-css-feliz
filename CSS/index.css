@@ -53,3 +53,39 @@ span {
 #button:hover {
     transform: scale(1.08);
 }
+
+box {
+    position: absolute;
+    display: inline-block;
+    background-color: #3A4042;
+    width: 627px;
+    height: 184px;
+    left: 91px;
+    top: 196px;
+    box-shadow: 5px 5px 0px black;
+}
+
+styleName {
+    position: absolute;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    color: #F25A70;
+    text-shadow: 4px 4px 0px #000000;
+    margin: 42px 97px 102px 90px;
+    
+}
+
+styleTitle {
+    position: absolute;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    color: #ffffff;
+    text-shadow: 4px 4px 0px #000000;
+    margin: 110px 47px 44px 40px;
+}
